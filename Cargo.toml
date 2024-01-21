@@ -1,6 +1,6 @@
 [package]
 name = "branchout"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 description = "Quick and easy ASCII tree of a directory."
 license = "MIT"
